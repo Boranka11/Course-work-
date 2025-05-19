@@ -1,0 +1,20 @@
+Toyota,Camry,2023,28000,15000,203,Hybrid,Automatic,Silver,4.5
+Honda,Accord,2022,26500,22000,192,Gasoline,CVT,Black,4.7
+Ford,Mustang,2021,42000,12000,450,Gasoline,Manual,Red,4.8
+Tesla,Model 3,2024,48000,5000,283,Electric,Automatic,White,4.9
+BMW,X5,2020,55000,35000,335,Diesel,Automatic,Blue,4.6
+Mercedes,C-Class,2023,52000,18000,255,Gasoline,Automatic,Black,4.5
+Audi,A4,2022,45000,25000,248,Diesel,Automatic,Gray,4.4
+Lexus,RX,2021,49000,30000,295,Hybrid,Automatic,White,4.7
+Volkswagen,Golf,2023,23000,10000,147,Gasoline,Manual,Blue,4.3
+Porsche,911,2024,120000,2000,443,Gasoline,PDK,Red,4.9
+Subaru,Outback,2022,32000,24000,182,Gasoline,CVT,Green,4.4
+Jeep,Grand Cherokee,2023,43000,15000,357,Diesel,Automatic,Black,4.5
+Hyundai,Santa Fe,2021,29000,32000,185,Gasoline,Automatic,Silver,4.2
+Kia,Sportage,2024,27000,8000,187,Hybrid,Automatic,White,4.3
+Mazda,CX-5,2022,31000,28000,187,Gasoline,Automatic,Red,4.5
+Nissan,Rogue,2023,30000,12000,181,Gasoline,CVT,Gray,4.4
+Chevrolet,Silverado,2021,45000,40000,285,Diesel,Automatic,Black,4.6
+Volvo,XC90,2024,62000,5000,295,Hybrid,Automatic,Blue,4.7
+Land Rover,Range Rover,2023,95000,10000,395,Diesel,Automatic,Black,4.8
+Fiat,500,2022,18000,15000,101,Gasoline,Manual,Yellow,4.1

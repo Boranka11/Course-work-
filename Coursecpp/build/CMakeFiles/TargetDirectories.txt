@@ -1,0 +1,3 @@
+/home/boris/Coursecpp/build/CMakeFiles/car_advisor.dir
+/home/boris/Coursecpp/build/CMakeFiles/edit_cache.dir
+/home/boris/Coursecpp/build/CMakeFiles/rebuild_cache.dir

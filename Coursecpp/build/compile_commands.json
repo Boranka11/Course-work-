@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/boris/Coursecpp/build",
+  "command": "/usr/bin/i686-w64-mingw32-g++ -I/usr/include/nlohmann_json -isystem /usr/include -g -o CMakeFiles/car_advisor.dir/carsdealer.cpp.o -c /home/boris/Coursecpp/carsdealer.cpp",
+  "file": "/home/boris/Coursecpp/carsdealer.cpp",
+  "output": "CMakeFiles/car_advisor.dir/carsdealer.cpp.o"
+}
+]

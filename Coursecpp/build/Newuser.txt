@@ -1,9 +1,0 @@
-Name:LOG
-Parrol:0
-&&&&&&&&&&&&&&&&&&&&&&.
-Name:LOG1
-Parrol:Shaslik 
-&&&&&&&&&&&&&&&&&&&&&&.
-Name:Alah
-Parrol:Rkfctcu
-&&&&&&&&&&&&&&&&&&&&&&.
